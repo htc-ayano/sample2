@@ -1,3 +1,4 @@
+```
 # マークダウンで書いたページ
 
 人生は、生きてるだけで丸儲け、争わない、楽しみ、チャレンジするそれで、人の役に
@@ -14,6 +15,7 @@
 すごい特異的なんですよ。本当は生き延びて生殖するために脳ができたんですけど、
 でもその脳が発達しすぎてしまったがために「ひと花咲かせよう！」ができちゃうわけ
 です。
+```
 
 # h1 Heading
 ## h2 Heading
@@ -26,7 +28,7 @@
 __This is bold text__
 *This is italic text*
 _This is italic text_
-~~Strikethrough~~
+~~Strikethrough ~~
 ## Blockquotes
 > Blockquotes can also be nested...
 >> ...by using additional greater-than signs right next to each other...
