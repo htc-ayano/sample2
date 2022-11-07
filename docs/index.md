@@ -4,10 +4,12 @@
     width: 800px;
     margin: auto;
   }
+  
   h1 {
     color: maroon;
     text-align: center;
   }
+  
   p {
     color: gray;
     border: 1px solid gray;
